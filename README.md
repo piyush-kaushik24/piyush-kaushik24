@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**piyush-kaushik24/piyush-kaushik24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer in progress, interested in building modern, responsive and user-friendly web applications.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning **Next.js, TypeScript and Full-Stack Development**
+- 💻 Practicing by building real-world projects
+- 🎯 Working towards becoming a professional Frontend Developer
+- 📚 Always learning and improving my problem-solving skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,python" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,pnpm" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### Frontend Projects
+
+- **Weather App** — Weather information, forecasts and API integration
+- **Interactive Comments App** — Comments, replies and user authentication
+- **Digital Banking Landing Page** — Responsive landing page
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
+
+
+
