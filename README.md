@@ -21,14 +21,18 @@ I'm a Frontend Developer in progress, interested in building modern, responsive 
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
 </p>
 
-### Backend & Database
+### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,python" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
 </p>
 
 ### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,pnpm" />
+Tools & IDEs
+
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://cdn.simpleicons.org/openai/74AA9C" height="48" />
 </p>
 
 ---
@@ -43,9 +47,6 @@ I'm a Frontend Developer in progress, interested in building modern, responsive 
 
 ---
 
-## 📫 Connect With Me
-
-- GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
 
 
 
